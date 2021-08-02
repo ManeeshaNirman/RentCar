@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/Profilenav"
+            android:icon="@drawable/ic_man"
+            android:title="Profile"
+
+            />
+
+
+
+    <item android:id="@+id/Rentcarnav"
+        android:icon="@drawable/ic_rent_a_car__1_"
+        android:title="Rent a Car"
+/>
+
+        <item android:id="@+id/Booking"
+            android:icon="@drawable/ic_ticket"
+            android:title="Booking"
+            />
+
+        <item android:id="@+id/Rate"
+            android:icon="@drawable/ic_world_book_day"
+            android:title="Rate Us"
+            />
+
+
+
+        </group>
+
+</menu>

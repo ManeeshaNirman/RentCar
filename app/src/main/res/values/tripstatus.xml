@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tripsearch">
+        <item>Booked</item>
+        <item>Ongoing</item>
+        <item>Finished</item>
+        <item>Canceled</item>
+    </string-array>
+
+</resources>

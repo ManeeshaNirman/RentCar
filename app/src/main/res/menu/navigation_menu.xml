@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item android:id="@+id/profilenav"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        />
+    <item android:id="@+id/homenav"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+
+    <item android:id="@+id/settingsnav"
+        android:title="Setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+
+</menu>

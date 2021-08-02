@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="district" >
+</string>
+
+    <string-array name="districtarray" >
+        <item>Anuradhapura</item>
+        <item>Colombo</item>
+        <item>Polonnaruwa</item>
+        <item>Jaffna</item>
+        <item>Gall</item>
+        <item>Rathnapura</item>
+
+    </string-array>
+
+</resources>
